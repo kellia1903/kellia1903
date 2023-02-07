@@ -1,7 +1,7 @@
-<h1 align="center">
+<div id="header" align="center">
   Добрый день, моё имя <a href="https://github.com/kellia1903" target="_blank">Никита</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="64"/>
- </h1>
+ </div>
  
 <h3 align="center">Я backend-разработчик на языке Python, 🇷🇺</h3>
 
