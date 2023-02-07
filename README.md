@@ -1,6 +1,6 @@
 <div id="header" align="center">
   Добрый день, моё имя <a href="https://github.com/kellia1903" target="_blank">Никита</a> 
-  <img src="https://i.gifer.com/1UEW.gif" height="16"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
  </div>
  
 <h3 align="center">Я backend-разработчик на языке Python, 🇷🇺</h3>
